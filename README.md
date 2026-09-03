@@ -26,6 +26,21 @@ The analysis was designed to answer key healthcare and business questions:
 - Which diagnoses require more hospital resources?
 - Which patient groups have higher referral rates?
 
+<h2>📂 Dataset</h2>
+
+<p>
+  <a href="https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Dataset/sales_dataset.xlsx">
+    📥 Download Dataset
+  </a>
+</p>
+
+<h2>📂 Pivot Tabe</h2>
+
+<p>
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20pivottable.png">
+  </a>
+</p>
+
 # Dashboards
 
 The project contains 4 interactive dashboards.
@@ -33,6 +48,19 @@ The project contains 4 interactive dashboards.
 1.  # Hospital Executive Overview
 
 Provides a high-level view of hospital performance.
+
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20overview.png">
+    <img 
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20overview.png"
+      alt="Hospital-EHR-data-analysis-dashboard"
+d"
+      width="100%"
+    >
+  </a>
+</p>
 
 ## Key KPIs:
 
@@ -56,6 +84,19 @@ Analyzes the characteristics of patients using the hospital.
 - Patients by City
 - Blood Group × Genotype
 
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20demographic.png">
+    <img 
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20demographic.png"
+      alt="Hospital-EHR-data-analysis-dashboard"
+d"
+      width="100%"
+    >
+  </a>
+</p>
+
 3.  # Clinical & Operational Performance
 
 Examines the hospital's clinical activity and operational workload.
@@ -69,6 +110,19 @@ Examines the hospital's clinical activity and operational workload.
 - Referral Patterns
 - Monthly Patient Admissions
 
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20operationa.png">
+    <img 
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20operationa.png"
+      alt="Hospital-EHR-data-analysis-dashboard"
+d"
+      width="100%"
+    >
+  </a>
+</p>
+
  4.  # Financial Performance
 
 Analyzes hospital revenue and payment behavior.
@@ -81,6 +135,19 @@ Analyzes hospital revenue and payment behavior.
 - Revenue by Payment Method
 - Insurance vs Self-Pay
 - Revenue by Diagnosis
+
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20finance.png">
+    <img 
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20finance.png"
+      alt="Hospital-EHR-data-analysis-dashboard"
+d"
+      width="100%"
+    >
+  </a>
+</p>
 
 # Tools & Techniques
 
