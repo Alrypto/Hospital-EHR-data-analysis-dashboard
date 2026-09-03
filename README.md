@@ -29,15 +29,21 @@ The analysis was designed to answer key healthcare and business questions:
 <h2>📂 Dataset</h2>
 
 <p>
-  <a href="https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Dataset/sales_dataset.xlsx">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/EHR.xlsx">
     📥 Download Dataset
   </a>
 </p>
 
-<h2>📂 Pivot Tabe</h2>
+<h2>📊 Pivot Table Preview</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20pivottable.png">
+    <img 
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20pivottable.png"
+      alt="Hospital-EHR-data-analysis-dashboard"
+d"
+      width="100%"
+    >
   </a>
 </p>
 
