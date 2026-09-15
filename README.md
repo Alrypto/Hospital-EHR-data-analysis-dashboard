@@ -93,9 +93,9 @@ Analyzes the characteristics of patients using the hospital.
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
-  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20demographic.png">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/DEMOGRAPHY.png">
     <img 
-      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20demographic.png"
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/DEMOGRAPHY.png"
       alt="Hospital-EHR-data-analysis-dashboard"
 d"
       width="100%"
