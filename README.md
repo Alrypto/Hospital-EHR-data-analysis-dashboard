@@ -119,9 +119,9 @@ Examines the hospital's clinical activity and operational workload.
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
-  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20operationa.png">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/EHR%20OPERATION.png">
     <img 
-      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20operationa.png"
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/EHR%20OPERATION.png"
       alt="Hospital-EHR-data-analysis-dashboard"
 d"
       width="100%"
