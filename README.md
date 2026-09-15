@@ -145,9 +145,9 @@ Analyzes hospital revenue and payment behavior.
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
-  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20finance.png">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/EHR%20FINENC.png">
     <img 
-      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20finance.png"
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/EHR%20FINENC.png"
       alt="Hospital-EHR-data-analysis-dashboard"
 d"
       width="100%"
