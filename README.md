@@ -58,9 +58,9 @@ Provides a high-level view of hospital performance.
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
-  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20overview.png">
+  <a href="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/EHR%20OVERVIEW%20(2).png">
     <img 
-      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/ehr%20overview.png"
+      src="https://github.com/Alrypto/Hospital-EHR-data-analysis-dashboard/blob/main/EHR%20OVERVIEW%20(2).png"
       alt="Hospital-EHR-data-analysis-dashboard"
 d"
       width="100%"
